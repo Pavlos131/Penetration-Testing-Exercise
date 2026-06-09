@@ -1,6 +1,6 @@
 # Penetration Testing Assignment Report
 
-A comprehensive penetration testing report for the "Development and Safety of Information Systems" course (2025-2026) at AUEB.
+A comprehensive penetration testing report for the "Penetration Testing" course (2025-2026) at AUEB.
 
 ## Overview
 
