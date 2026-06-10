@@ -98,11 +98,6 @@ Each assessment follows a standardized four-phase penetration testing approach:
 
 
 
-## Course Information
-
-- **Course**: Development and Safety of Information Systems
-- **Institution**: Athens University of Economics and Business (AUEB)
-- **Academic Year**: 2025-2026
 
 ## Disclaimer
 
